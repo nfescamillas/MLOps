@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nikki/homework2/mlruns/0/ef47268e31e64da49f0a860d1943b213/artifacts
+end_time: 1716820488954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef47268e31e64da49f0a860d1943b213
+run_name: blushing-ape-189
+run_uuid: ef47268e31e64da49f0a860d1943b213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716820475765
+status: 3
+tags: []
+user_id: nikki
